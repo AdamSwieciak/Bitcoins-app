@@ -1,0 +1,19 @@
+.addPost {
+  margin-top: 20vh;
+}
+
+.addPost input,
+.addPost textarea {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.addPost [type="submit"] {
+  background-color: #e22f2f;
+  color: aliceblue;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=AddPost.css.map */

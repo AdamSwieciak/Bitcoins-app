@@ -1,0 +1,49 @@
+.viewpost {
+  background-color: #818181;
+  color: wheat;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.viewpost .viewpost__button {
+  float: right;
+  background-color: #e22f2f;
+  color: aliceblue;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.viewpost .viewpost__title {
+  color: #7abd16;
+  font-size: 35px;
+  margin-top: 0;
+}
+
+.viewpost .viewpost__shorttitle {
+  color: white;
+  font-size: 20px;
+}
+
+.viewpost .viewpost__content {
+  padding: 10px;
+}
+
+.viewpost section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.viewpost section img {
+  width: 300px;
+  height: 260px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=ViewPost.css.map */

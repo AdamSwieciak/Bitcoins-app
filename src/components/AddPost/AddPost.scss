@@ -1,0 +1,17 @@
+.addPost {
+  margin-top: 20vh;
+  input,
+  textarea {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+  }
+
+  [type="submit"] {
+    background-color: rgb(226, 47, 47);
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}
